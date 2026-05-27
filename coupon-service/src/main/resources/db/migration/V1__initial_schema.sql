@@ -1,0 +1,6 @@
+CREATE TABLE coupons (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    code VARCHAR(50) NOT NULL UNIQUE,
+    discount_percent DOUBLE NOT NULL,
+    active BOOLEAN NOT NULL
+);
