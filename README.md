@@ -5,7 +5,7 @@ Este proyecto representa la arquitectura de microservicios desarrollada para la 
 ---
 
 ## 👥 Integrantes del Equipo
-* **[Nombres de los estudiantes]**
+* **Angel Perez y Maximiliano Villalobos**
 
 ---
 
